@@ -1,0 +1,8 @@
+=== STEP 1: Tag current state as rollback point === 
+Tag result: 0 
+ 
+=== STEP 2: Push tag to GitHub === 
+To https://github.com/P-TC/Website.git
+ * [new tag]         old-site -> old-site
+ 
+=== STEP 3: Stage all files === 
